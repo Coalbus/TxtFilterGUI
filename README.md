@@ -1,4 +1,4 @@
-# Text File Filter GUI
+# TxtFilterGUI
 
 This Python script provides a simple Graphical User Interface (GUI) for filtering large text files based on user-specified keywords. Built with Tkinter, the script allows users to apply multiple keyword filters to a chosen text file and view the resulting filtered lines directly in the application window.
 
@@ -25,4 +25,6 @@ This tool is helpful for quickly filtering large text files based on specific cr
 
 Can be turned into a standalone application using a utility like PyInstaller, enabling it to run on systems even without Python installed.
 
-![Hypothetical use-case for TxtFilterGUI]([url](https://i.imgur.com/ebQ7HRr.png))
+## Screenshot
+
+![Hypothetical use-case for TxtFilterGUI](https://i.imgur.com/Xyi7mGZ.png)
